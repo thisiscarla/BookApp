@@ -1,4 +1,4 @@
-**This app was created just for Java practising.**
+**This app was created just for Java practice**
 
 
 # BookApp
