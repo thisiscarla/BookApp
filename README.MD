@@ -2,7 +2,7 @@
 
 
 # BookApp
-BookApp is a desktop app which with you can keep track of your readings.
+BookApp is a desktop app that lets you keep track of your readings.
 
 ![BookApp](./images/BookApp.PNG)
 
